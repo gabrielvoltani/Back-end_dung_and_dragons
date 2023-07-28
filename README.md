@@ -1,4 +1,4 @@
-# Back-end Trybers and Dragons
+# Back-end Dung and Dragons
 
 This is a back-end application that provides an API for a role-playing game (RPG) called Trybers and Dragons. The application was built using Node.js, Express, and MongoDB.
 
